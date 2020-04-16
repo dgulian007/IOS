@@ -1,303 +1,48 @@
-[
-    {
-        "shop_title" : "Wine Stop 1",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
+{ 
+    "wines" : {
+        "wine" : [
             {
-                "wine_title" : "Wine A",
+                "title" : "Wine A",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 2",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine B",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 3",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine C",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 4",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine D",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 5",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine E",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 6",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine F",
                 "price" : 50.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             },
             {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            }
-        ]
-    },
-    {
-        "shop_title" : "Wine Stop 7",
-        "address" : "307 Grand River St N, Paris, ON N3L 2N9",
-        "shop_image" : "https://images.unsplash.com/photo-1529573164479-af78bbb26447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "wines" : [
-            {
-                "wine_title" : "Wine A",
+                "title" : "Wine G",
                 "price" : 50.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine B",
-                "price" : 30.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine C",
-                "price" : 55.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine D",
-                "price" : 70.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine E",
-                "price" : 20.00,
-                "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-                "wcode" : "LCBO1004"
-            },
-            {
-                "wine_title" : "Wine F",
-                "price" : 40.00,
                 "image" : "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
                 "wcode" : "LCBO1004"
             }
         ]
     }
-]
+}
