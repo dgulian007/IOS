@@ -2,7 +2,7 @@
     "wines" : {
         "wine" : [
             {
-                "title" : "Wine A",
+                "title" : "Domaine Laroche Saint",
                 "price" : "20.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
@@ -12,7 +12,7 @@
                 "longitude" : "-80.492511"
             },
             {
-                "title" : "Wine B",
+                "title" : "Mommessin Cuvee",
                 "price" : "30.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1002",
@@ -22,7 +22,7 @@
                 "longitude" : "-80.492622"
             },
             {
-                "title" : "Wine C",
+                "title" : "Pelee Island Ruggles",
                 "price" : "40.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1003",
@@ -32,7 +32,7 @@
                 "longitude" : "-80.492523"
             },
             {
-                "title" : "Wine D",
+                "title" : "L'Ambiance Red",
                 "price" : "50.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
@@ -42,7 +42,7 @@
                 "longitude" : "-80.492623"
             },
             {
-                "title" : "Wine E",
+                "title" : "Domaine Laroche Saint",
                 "price" : "60.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1005",
@@ -52,7 +52,7 @@
                 "longitude" : "-80.492534"
             },
             {
-                "title" : "Wine F",
+                "title" : "Sogrape Mateus Rose",
                 "price" : "70.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1006",
@@ -62,14 +62,44 @@
                 "longitude" : "-80.492637"
             },
             {
-                "title" : "Wine G",
+                "title" : "Girls' Night Out Rosé VQA",
                 "price" : "80.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1007",
                 "category" : "Red Wine",
-                "alcohol" : 4,
+                "alcohol" : 2,
                 "latitude" : "43.451641",
                 "longitude" : "-80.492544"
+            },
+            {
+                "title" : "Banrock Station Pink Moscato Rosé",
+                "price" : "65.99",
+                "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
+                "wcode" : "LCBO1008",
+                "category" : "Blue Wine",
+                "alcohol" : 4,
+                "latitude" : "43.451999",
+                "longitude" : "-80.49987"
+            },
+            {
+                "title" : "Veuve Clicquot Rose Champagne",
+                "price" : "44.99",
+                "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
+                "wcode" : "LCBO1009",
+                "category" : "Rose Wine",
+                "alcohol" : 3,
+                "latitude" : "43.451941",
+                "longitude" : "-80.492114"
+            },
+            {
+                "title" : "Cristal Brut Vintage Champagne",
+                "price" : "99.99",
+                "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
+                "wcode" : "LCBO1010",
+                "category" : "White Wine",
+                "alcohol" : 7,
+                "latitude" : "43.451841",
+                "longitude" : "-80.492844"
             }
         ]
     }
