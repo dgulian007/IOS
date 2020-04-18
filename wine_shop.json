@@ -8,8 +8,8 @@
                 "wcode" : "LCBO1004",
                 "category" : "White Wine",
                 "alcohol" : 8,
-                "latitude" : "43.451600",
-                "longitude" : "-80.492500"
+                "latitude" : "43.451611",
+                "longitude" : "-80.492511"
             },
             {
                 "title" : "Wine B",
@@ -18,8 +18,8 @@
                 "wcode" : "LCBO1002",
                 "category" : "Rose Wine",
                 "alcohol" : 2,
-                "latitude" : "43.451500",
-                "longitude" : "-80.492600"
+                "latitude" : "43.451522",
+                "longitude" : "-80.492622"
             },
             {
                 "title" : "Wine C",
@@ -28,8 +28,8 @@
                 "wcode" : "LCBO1003",
                 "category" : "Black Wine",
                 "alcohol" : 10,
-                "latitude" : "43.451620",
-                "longitude" : "-80.492520"
+                "latitude" : "43.451623",
+                "longitude" : "-80.492523"
             },
             {
                 "title" : "Wine D",
@@ -38,8 +38,8 @@
                 "wcode" : "LCBO1004",
                 "category" : "Red Wine",
                 "alcohol" : 1,
-                "latitude" : "43.451520",
-                "longitude" : "-80.492620"
+                "latitude" : "43.451523",
+                "longitude" : "-80.492623"
             },
             {
                 "title" : "Wine E",
@@ -48,8 +48,8 @@
                 "wcode" : "LCBO1005",
                 "category" : "Rose Wine",
                 "alcohol" : 3,
-                "latitude" : "43.451630",
-                "longitude" : "-80.492530"
+                "latitude" : "43.451634",
+                "longitude" : "-80.492534"
             },
             {
                 "title" : "Wine F",
@@ -58,8 +58,8 @@
                 "wcode" : "LCBO1006",
                 "category" : "White Wine",
                 "alcohol" : 5,
-                "latitude" : "43.451530",
-                "longitude" : "-80.492630"
+                "latitude" : "43.451536",
+                "longitude" : "-80.492637"
             },
             {
                 "title" : "Wine G",
@@ -68,8 +68,8 @@
                 "wcode" : "LCBO1007",
                 "category" : "Red Wine",
                 "alcohol" : 4,
-                "latitude" : "43.451640",
-                "longitude" : "-80.492540"
+                "latitude" : "43.451641",
+                "longitude" : "-80.492544"
             }
         ]
     }
