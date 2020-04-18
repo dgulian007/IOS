@@ -3,7 +3,7 @@
         "wine" : [
             {
                 "title" : "Wine A",
-                "price" : 20.99,
+                "price" : "20.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
                 "category" : "White Wine",
@@ -11,7 +11,7 @@
             },
             {
                 "title" : "Wine B",
-                "price" : 30.99,
+                "price" : "30.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1002",
                 "category" : "Rose Wine",
@@ -19,7 +19,7 @@
             },
             {
                 "title" : "Wine C",
-                "price" : 40.99,
+                "price" : "40.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1003",
                 "category" : "Black Wine",
@@ -27,7 +27,7 @@
             },
             {
                 "title" : "Wine D",
-                "price" : 50.99,
+                "price" : "50.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
                 "category" : "Red Wine",
@@ -35,7 +35,7 @@
             },
             {
                 "title" : "Wine E",
-                "price" : 60.99,
+                "price" : "60.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1005",
                 "category" : "Rose Wine",
@@ -43,7 +43,7 @@
             },
             {
                 "title" : "Wine F",
-                "price" : 70.99,
+                "price" : "70.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1006",
                 "category" : "White Wine",
@@ -51,7 +51,7 @@
             },
             {
                 "title" : "Wine G",
-                "price" : 80.99,
+                "price" : "80.99",
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1007",
                 "category" : "Red Wine",
