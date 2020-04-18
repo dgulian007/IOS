@@ -8,8 +8,8 @@
                 "wcode" : "LCBO1001",
                 "category" : "White Wine",
                 "alcohol" : 8,
-                "latitude" : "43.451611",
-                "longitude" : "-80.492511"
+                "latitude" : "43.451614",
+                "longitude" : "-80.492513"
             },
             {
                 "title" : "Mommessin Cuvee",
@@ -68,7 +68,7 @@
                 "wcode" : "LCBO1007",
                 "category" : "Red Wine",
                 "alcohol" : 2,
-                "latitude" : "43.451641",
+                "latitude" : "43.451643",
                 "longitude" : "-80.492544"
             },
             {
@@ -78,7 +78,7 @@
                 "wcode" : "LCBO1008",
                 "category" : "Blue Wine",
                 "alcohol" : 4,
-                "latitude" : "43.451901",
+                "latitude" : "43.451902",
                 "longitude" : "-80.49987"
             },
             {
@@ -88,7 +88,7 @@
                 "wcode" : "LCBO1009",
                 "category" : "Rose Wine",
                 "alcohol" : 3,
-                "latitude" : "43.451941",
+                "latitude" : "43.451942",
                 "longitude" : "-80.492114"
             },
             {
@@ -98,7 +98,7 @@
                 "wcode" : "LCBO1010",
                 "category" : "White Wine",
                 "alcohol" : 7,
-                "latitude" : "43.451841",
+                "latitude" : "43.451848",
                 "longitude" : "-80.492844"
             }
         ]
