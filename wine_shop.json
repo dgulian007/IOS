@@ -7,7 +7,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
                 "category" : "White Wine",
-                "alcohol" : 8
+                "alcohol" : 8,
+                "latitude" : "43.451600",
+                "longitude" : "-80.492500"
             },
             {
                 "title" : "Wine B",
@@ -15,7 +17,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1002",
                 "category" : "Rose Wine",
-                "alcohol" : 2
+                "alcohol" : 2,
+                "latitude" : "43.451500",
+                "longitude" : "-80.492600"
             },
             {
                 "title" : "Wine C",
@@ -23,7 +27,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1003",
                 "category" : "Black Wine",
-                "alcohol" : 10
+                "alcohol" : 10,
+                "latitude" : "43.451620",
+                "longitude" : "-80.492520"
             },
             {
                 "title" : "Wine D",
@@ -31,7 +37,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1004",
                 "category" : "Red Wine",
-                "alcohol" : 1
+                "alcohol" : 1,
+                "latitude" : "43.451520",
+                "longitude" : "-80.492620"
             },
             {
                 "title" : "Wine E",
@@ -39,7 +47,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1005",
                 "category" : "Rose Wine",
-                "alcohol" : 3
+                "alcohol" : 3,
+                "latitude" : "43.451630",
+                "longitude" : "-80.492530"
             },
             {
                 "title" : "Wine F",
@@ -47,7 +57,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1006",
                 "category" : "White Wine",
-                "alcohol" : 5
+                "alcohol" : 5,
+                "latitude" : "43.451530",
+                "longitude" : "-80.492630"
             },
             {
                 "title" : "Wine G",
@@ -55,7 +67,9 @@
                 "image" : "https://www.lcbo.com/content/dam/lcbo/products/212480.jpg/jcr:content/renditions/cq5dam.web.319.319.jpeg",
                 "wcode" : "LCBO1007",
                 "category" : "Red Wine",
-                "alcohol" : 4
+                "alcohol" : 4,
+                "latitude" : "43.451640",
+                "longitude" : "-80.492540"
             }
         ]
     }
